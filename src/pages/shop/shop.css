@@ -51,3 +51,21 @@
   color: white;
   cursor: pointer;
 }
+
+@media screen and (max-width: 1100px) {
+  .shop-title {
+    font-size: 50px !important;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .shop-title {
+    font-size: 30px !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .shop-title {
+    font-size: 20px !important;
+  }
+}
